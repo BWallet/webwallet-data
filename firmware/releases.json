@@ -5,7 +5,7 @@
 		"min_version": [0, 0, 0],
 		"min_plugin_version": [1, 0, 5],
 		"url": "/data/firmware/bwallet-1.2.1.bin.hex",
-		"fingerprint": "fc8ee64f653c2f2747bfc17737b3e55d4f457d5507ede7f1f7160d8a603c47ea",
+		"fingerprint": "175ed764d1d76d0676e5e3c24d5c192e970ff43709215fe327df5002aff51fd8",
 		"changelog": "* Stable release, mandatory update\n* Added stack overflow protection\n* Added chinese language support"
 	}
 ]
