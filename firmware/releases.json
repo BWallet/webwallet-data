@@ -1,6 +1,15 @@
 [
 	{
 		"required": true,
+		"version": [1, 3, 0],
+		"min_version": [0, 0, 0],
+		"min_plugin_version": [1, 0, 5],
+		"url": "/data/firmware/bwallet-1.3.0.bin.hex",
+		"fingerprint": "015b66657d928efca5e757d5322bac703be7ad915392f75e3e0af6c6f8488190",
+		"changelog": "* Stable release, mandatory update\n* Added stack overflow protection\n* Added chinese language support"
+	},
+	{
+		"required": true,
 		"version": [1, 2, 1],
 		"min_version": [0, 0, 0],
 		"min_plugin_version": [1, 0, 5],
